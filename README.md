@@ -1,2 +1,2 @@
 # talech-node
-Node.js helper library 
+Node.js [talech](https://www.talech.com) helper library
